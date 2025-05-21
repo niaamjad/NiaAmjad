@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Nia
+# 👋 Hi there! I'm Nia!
 
 Welcome to my GitHub profile!
 
