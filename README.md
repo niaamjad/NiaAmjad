@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 💻 About Me
 
-I'm a Back-end Developer who is passionate about building efficient, scalable, and secure systems.  
+I'm a Computer engineer and a Back-end Developer who is passionate about building efficient, scalable, and secure systems.  
 Currently, I'm learning and working with:
 
 - 🐍 Python
