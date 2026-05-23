@@ -48,7 +48,7 @@ I enjoy working with data, building dashboards, automating reports, and discover
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/niayesh-amjadian-ba50753b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYBzFertPRbCQKW1VkYvW3w%3D%3D
+- LinkedIn:(https://www.linkedin.com/in/niayesh-amjadian-ba50753b2)
 
 ---
 
